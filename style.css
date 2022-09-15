@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+#aplicativos{
+    background-color: rgb(12, 243, 243);
+}
+#jogos{
+    background-color: brown;
+}
+#chatbot{
+    background-color: blue;
+}
